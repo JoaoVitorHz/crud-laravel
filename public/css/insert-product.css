@@ -1,0 +1,67 @@
+h1{
+    margin-bottom: 50px;
+}
+
+.div-form{
+    width: 400px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 10px;
+}
+.div-header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.div-form form{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.div-input{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.div-input input{
+    background-color: rgb(18, 18, 20);
+    padding: 10px 10px;
+    border: 2px solid rgb(41, 41, 46);
+    border-radius: 5px;
+    outline: none;
+    font-size: 16px;
+}
+.div-add-product{
+    display: flex;
+    justify-content: center;
+}
+.div-form form button{
+    padding: 10px 15px;
+    background-color: #8257e5;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 0 5px 0 0;
+    font-weight: 500;
+}
+.div-form form button:hover{
+    background-color: #8579f7;
+}
+
+.a-list, 
+.a-github{
+    position: absolute;
+    padding: 10px 20px;
+    background-color: #8257e5;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.a-github{
+    right: 20px;
+    top: 20px;
+}
+.a-list{
+    left: 20px;
+    top: 20px;
+}
