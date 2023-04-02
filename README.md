@@ -1,5 +1,5 @@
 ## Introdução 
-Olá seja bem vindo, esse projeto é um CRUD com ``Laravel``, apesar de ser minha primeira vez mexendo com o Framework, achei mais facil fazer um CRUD com ``Laravel`` do que com ``PHP``, lembrando que só estudei o suficiente para fazer um CRUD, se eu estudar mais profudamente acho que vou conseguir faze coisas incriveis com o Framework.🧐
+Olá seja bem vindo, esse projeto é um CRUD com ``Laravel``, apesar de ser minha primeira vez mexendo com o Framework, achei mais facil fazer um CRUD com ``Laravel`` do que com ``PHP``, lembrando que só estudei o suficiente para fazer um CRUD, se eu estudar mais profudamente acho que vou conseguir fazer coisas incriveis com o Framework.🧐
 
 ## Tecnologias Usadas 
 - Laravel
