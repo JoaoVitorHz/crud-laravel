@@ -23,6 +23,8 @@ php artisan serve
  ## Para usar a API do Projeto
  Caso você queira usar o projeto atravez da API, você também consegue, mas vale a pena lembrar que esse projeto também tem Frontend, e vale a pena dar uma olhada.
 
+Utilizei o POSTMAN para testar a API, deixa o arquivo de exemplo para você importar no seu POSTMAN, se preferir
+
  Depois de começar a roda o projeto como ``php artisan serve``, você vai pegar o caminho de onde o projeto esta rodando exemplo ``http://127.0.0.1:8000`` e vai acresentar na frente disso /api. ficando assim ``http://127.0.0.1:8000/api``.
 
 Esses são as possiveis request.
